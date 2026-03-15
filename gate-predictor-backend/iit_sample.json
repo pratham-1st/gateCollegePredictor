@@ -1,0 +1,773 @@
+[
+  {
+    "name": "IISC Banglore",
+    "instituteType": "Public University",
+    "discipline": "CS",
+    "program" : "Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 903,
+      "OBC": 833,
+      "SC": 678,
+      "ST": 542,
+      "EWS": 868
+    }
+  },
+    {
+    "name": "IISC Banglore",
+    "instituteType": "Public University",
+    "discipline": "CS",
+    "program" : "Computational and Data Science",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 860,
+      "OBC": 806,
+      "SC": 579,
+      "ST": 0,
+      "EWS": 843
+    }
+  },
+    {
+    "name": "IISC Banglore",
+    "instituteType": "Public University",
+    "discipline": "CS",
+    "program" : "Artificial Intelligence",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 860,
+      "OBC": 806,
+      "SC": 579,
+      "ST": 0,
+      "EWS": 788
+    }
+  },
+  {
+    "name": "IIT Bhilai",
+    "instituteType": "IIT",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 614,
+      "OBC": 577,
+      "SC": 404,
+      "ST": 380,
+      "EWS": 580
+    }
+  },
+    {
+    "name": "IIT Bhilai",
+    "instituteType": "IIT",
+    "discipline": "CS",
+    "program":"Data Science and Artificial Intelligence",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 610,
+      "OBC": 548,
+      "SC": 393,
+      "ST": 315,
+      "EWS": 557
+    }
+  },
+  {
+    "name": "IIT Bhubaneshwar",
+    "instituteType": "IIT",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 767,
+      "OBC": 720,
+      "SC": 615,
+      "ST": 486,
+      "EWS": 724
+    }
+  },
+    {
+    "name": "IIT Bhubaneshwar",
+    "instituteType": "IIT",
+    "discipline": "CS",
+    "program":"Artificial Intelligence",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 744,
+      "OBC": 689,
+      "SC": 564,
+      "ST": 417,
+      "EWS": 727
+    }
+  },
+  {
+    "name": "IIT Dharwad",
+    "instituteType": "IIT",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 606,
+      "OBC": 579,
+      "SC": 404,
+      "ST": 452,
+      "EWS": 605
+    }
+  },
+  {
+    "name": "IIT Goa",
+    "instituteType": "IIT",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 618,
+      "OBC": 622,
+      "SC": 546,
+      "ST": 0,
+      "EWS": 602
+    }
+  },
+  {
+    "name": "IIT Roorkee",
+    "instituteType": "IIT",
+    "discipline": "CSE",
+    "program":"Computer Science and Engineering",
+    "year": 2024,
+    "cutoffs": {
+      "GEN": 680,
+      "OBC": 635,
+      "SC": 440,
+      "ST": 360,
+      "EWS": 655
+    }
+  },
+  {
+    "name": "IIT Guwahati",
+    "instituteType": "IIT",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 772,
+      "OBC": 714,
+      "SC": 589,
+      "ST": 456,
+      "EWS": 752
+    }
+  },
+   {
+    "name": "NIT Jalandhar",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 565,
+      "OBC": 539,
+      "SC": 423,
+      "ST": 298,
+      "EWS": 529
+    }
+  }, 
+   {
+    "name": "MNIT Jaipur",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 652,
+      "OBC": 635,
+      "SC": 498,
+      "ST": 350,
+      "EWS": 638
+    }
+  },
+     {
+    "name": "JNU",
+    "instituteType": "Public University",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 559,
+      "OBC": 459,
+      "SC": 430,
+      "ST": 350,
+      "EWS": 640
+    }
+  },
+
+  {
+    "name": "IIIT Bhubaneshwar",
+    "instituteType": "IIIT",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 477,
+      "OBC": 420,
+      "SC": 324,
+      "ST": 264,
+      "EWS": 417
+    }
+  },
+  {
+    "name": "IIIT Naya Raipur",
+    "instituteType": "IIIT",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 493,
+      "OBC": 600,
+      "SC": 410,
+      "ST": 330,
+      "EWS": 620
+    }
+  },
+     {
+    "name": "PEC Chandigarh",
+    "instituteType": "Public University",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 466,
+      "OBC": 635,
+      "SC": 354,
+      "ST": 350,
+      "EWS": 460
+    }
+  },
+     {
+    "name": "IIITDM Kurnool ",
+    "instituteType": "IIIT",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 456,
+      "OBC": 397,
+      "SC": 324,
+      "ST": 350,
+      "EWS": 640
+    }
+  },
+     {
+    "name": "IIIT Pune",
+    "instituteType": "IIIT",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 555,
+      "OBC": 533,
+      "SC": 430,
+      "ST": 350,
+      "EWS": 640
+    }
+  },
+     {
+    "name": "IIIT Tiruchirapalli",
+    "instituteType": "IIIT",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 498,
+      "OBC": 448,
+      "SC": 430,
+      "ST": 280,
+      "EWS": 436
+    }
+  },
+     {
+    "name": "IIEST Shibpur",
+    "instituteType": "Public University",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 577,
+      "OBC": 473,
+      "SC": 430,
+      "ST": 277,
+      "EWS": 640
+    }
+  },
+     {
+    "name": "SVNIT Surat",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 618,
+      "OBC": 592,
+      "SC": 430,
+      "ST": 327,
+      "EWS": 589
+    }
+  },
+     {
+    "name": " VNIT Nagpur",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 639,
+      "OBC": 610,
+      "SC": 509,
+      "ST": 0,
+      "EWS": 625
+    }
+  },
+     {
+    "name": "NIT Warangal",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 752,
+      "OBC": 706,
+      "SC": 572,
+      "ST": 436,
+      "EWS": 731
+    }
+  },
+     {
+    "name": "NIT Srinagar",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "program":"Computer Science and Engineering",
+    "year": 2025,
+    "cutoffs": {
+      "GEN": 493,
+      "OBC": 453,
+      "SC": 430,
+      "ST": 350,
+      "EWS": 448
+    }
+  },
+     {
+    "name": "NIT Tiruchirapalli",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 761,
+      "OBC": 722,
+      "SC": 430,
+      "ST": 452,
+      "EWS": 743
+    }
+  },
+       {
+    "name": "NIT Mizoram",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 445,
+      "OBC": 393,
+      "SC": 321,
+      "ST": 452,
+      "EWS": 443
+    }
+  },
+       {
+    "name": "NIT Silchar",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 569,
+      "OBC": 526,
+      "SC": 430,
+      "ST": 452,
+      "EWS": 506
+    }
+  },
+       {
+    "name": "NIT Manipur",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 436,
+      "OBC": 397,
+      "SC": 321,
+      "ST": 452,
+      "EWS": 417
+    }
+  },
+       {
+    "name": "NIT Arunachal Pradesh",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 448,
+      "OBC": 397,
+      "SC": 323,
+      "ST": 274,
+      "EWS": 415
+    }
+  },
+       {
+    "name": "NIT Jamshedpur",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 602,
+      "OBC": 572,
+      "SC": 407,
+      "ST": 452,
+      "EWS": 743
+    }
+  },
+       {
+    "name": "NIT Nagaland",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 450,
+      "OBC": 390,
+      "SC": 430,
+      "ST": 452,
+      "EWS": 446
+    }
+  },
+       {
+    "name": "NIT Puducherry",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 761,
+      "OBC": 722,
+      "SC": 430,
+      "ST": 452,
+      "EWS": 496
+    }
+  },
+       {
+    "name": "NIT Surathkal",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 743,
+      "OBC": 704,
+      "SC": 562,
+      "ST": 426,
+      "EWS": 724
+    }
+  },
+       {
+    "name": "NIT Meghalaya",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 453,
+      "OBC": 417,
+      "SC": 327,
+      "ST": 452,
+      "EWS": 412
+    }
+  },
+       {
+    "name": "NIT Hamirpur",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 564,
+      "OBC": 523,
+      "SC": 406,
+      "ST": 452,
+      "EWS": 516
+    }
+  },
+       {
+    "name": "NIT Durgapur",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 597,
+      "OBC": 556,
+      "SC": 314,
+      "ST": 452,
+      "EWS": 552
+    }
+  },
+       {
+    "name": "NIT Goa",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 556,
+      "OBC": 493,
+      "SC": 397,
+      "ST": 452,
+      "EWS": 486
+    }
+  },
+       {
+    "name": "NIT Delhi",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 635,
+      "OBC": 597,
+      "SC": 430,
+      "ST": 452,
+      "EWS": 622
+    }
+  },
+       {
+    "name": "MNNIT Allahabad",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 658,
+      "OBC": 722,
+      "SC": 502,
+      "ST": 452,
+      "EWS": 661
+    }
+  },
+       {
+    "name": "NIT Calicut",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Science and Engineering",
+    "cutoffs": {
+      "GEN": 706,
+      "OBC": 671,
+      "SC": 542,
+      "ST": 452,
+      "EWS": 685
+    }
+  },
+  {
+    "name": "IIT BHU",
+    "instituteType": "IIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Artificial Intelligence",
+    "cutoffs": {
+      "GEN": 772,
+      "OBC": 721,
+      "SC": 569,
+      "ST": 0,
+      "EWS": 0
+    }
+    },
+    {
+    "name": "IIT BHU",
+    "instituteType": "IIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Internet Of Things",
+    "cutoffs": {
+      "GEN": 757,
+      "OBC": 706,
+      "SC": 564,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+    {
+    "name": "IIT BHU",
+    "instituteType": "IIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Decision Sciences and Engineering",
+    "cutoffs": {
+      "GEN": 380,
+      "OBC": 504,
+      "SC": 417,
+      "ST": 254,
+      "EWS": 563
+    }
+  },
+      {
+    "name": "IIT BHU",
+    "instituteType": "IIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Decision Sciences and Engineering",
+    "cutoffs": {
+      "GEN": 380,
+      "OBC": 504,
+      "SC": 417,
+      "ST": 254,
+      "EWS": 563
+    }
+  },
+      {
+    "name": "NIT Jalandhar",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Information Security",
+    "cutoffs": {
+      "GEN": 544,
+      "OBC": 516,
+      "SC": 283,
+      "ST": 254,
+      "EWS": 563
+    }
+  },
+        {
+    "name": "NIT Calicut",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Information Security",
+    "cutoffs": {
+      "GEN": 685,
+      "OBC": 655,
+      "SC": 509,
+      "ST": 356,
+      "EWS": 563
+    }
+  },
+        {
+    "name": "NIT Surathkal",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Information Security",
+    "cutoffs": {
+      "GEN": 722,
+      "OBC": 681,
+      "SC": 300,
+      "ST": 393,
+      "EWS": 704
+    }
+  },
+        {
+    "name": "NIT Surathkal",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Information Technology",
+    "cutoffs": {
+      "GEN": 704,
+      "OBC": 658,
+      "SC": 529,
+      "ST": 368,
+      "EWS": 653
+    }
+  },
+        {
+    "name": "NIT Raipur",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Information Technology",
+    "cutoffs": {
+      "GEN": 531,
+      "OBC": 496,
+      "SC": 283,
+      "ST": 254,
+      "EWS": 506
+    }
+  },
+   {
+    "name": "ABV-IIITM Gwalior",
+    "instituteType": "IIIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Information Technology",
+    "cutoffs": {
+      "GEN": 526,
+      "OBC": 506,
+      "SC": 346,
+      "ST": 255,
+      "EWS": 523
+    }
+  },
+   {
+    "name": "IIEST Shibpur",
+    "instituteType": "Public University",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Information Technology",
+    "cutoffs": {
+      "GEN": 519,
+      "OBC": 448,
+      "SC": 338,
+      "ST": 243,
+      "EWS": 439
+    }
+  },
+   {
+    "name": "NIT Jamshedpur",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Data Science and Engineering",
+    "cutoffs": {
+      "GEN": 569,
+      "OBC": 526,
+      "SC": 387,
+      "ST": 254,
+      "EWS": 533
+    }
+  },
+   {
+    "name": "NIT Kurukshetra",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Computer Engineering (Cyber Security)",
+    "cutoffs": {
+      "GEN": 589,
+      "OBC": 539,
+      "SC": 283,
+      "ST": 281,
+      "EWS": 562
+    }
+  },
+   {
+    "name": "NIT Rourkela",
+    "instituteType": "NIT",
+    "discipline": "CS",
+    "year": 2025,
+    "program":"Information Technology",
+    "cutoffs": {
+      "GEN": 531,
+      "OBC": 496,
+      "SC": 283,
+      "ST": 254,
+      "EWS": 506
+    }
+  }
+]
