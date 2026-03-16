@@ -216,7 +216,7 @@ console.log(processedResults)
 
 <div className="college-request">
 
-  <h2>🏫 Can't find your college?</h2>
+  <h2>Can't find your college?</h2>
 
   <p>Send it to us and we will add it to the predictor.</p>
 
