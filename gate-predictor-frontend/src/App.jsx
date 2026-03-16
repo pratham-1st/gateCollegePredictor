@@ -154,7 +154,7 @@ console.log(processedResults)
       {topMatches.map((item, index) => (
         <div className="top-card" key={index}>
           <h3>{item.institute}</h3>
-          <p>{item.discipline}</p>
+          <p>{item.program}</p>
         </div>
       ))}
     </div>
