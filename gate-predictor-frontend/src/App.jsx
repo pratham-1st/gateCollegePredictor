@@ -103,7 +103,7 @@ console.log(processedResults)
       <h1>GATE College Predictor 2026</h1>
 
       <p style={{color:"gray", padding: "20px"}}>
-      🔥 {visitors} students have checked their chances
+      🔥 {visitors} students predicted chances
       </p>
 
       <div id="home-bar">
