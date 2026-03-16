@@ -109,7 +109,7 @@ console.log(processedResults)
       <div id="home-bar">
         <input
         placeholder="Enter GATE Score"
-        value={score}
+        value={score} maxLength={1000}
         onChange={(e) => setScore(e.target.value)}
       />
 
