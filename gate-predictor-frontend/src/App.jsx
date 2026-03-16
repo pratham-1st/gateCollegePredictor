@@ -9,8 +9,8 @@ function App() {
   const [results, setResults] = useState([]);
   const [instituteType,setInstituteType] = useState("ALL");
   const [visitors, setVisitors] = useState(0);
-const [collegeName, setCollegeName] = useState("");
-const [programName, setProgramName] = useState("");
+  const [collegeName, setCollegeName] = useState("");
+  const [programName, setProgramName] = useState("");
 
   useEffect(() => {
 
@@ -157,6 +157,7 @@ console.log(processedResults)
         <div className="top-card" key={index}>
           <h3>{item.institute}</h3>
           <p>{item.program}</p>
+          <p>{item.probability}%</p>
         </div>
       ))}
     </div>
