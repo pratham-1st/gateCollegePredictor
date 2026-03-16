@@ -14,7 +14,7 @@ const [programName, setProgramName] = useState("");
 
   useEffect(() => {
 
-  fetch("http://localhost:5000/api/visit")
+  fetch("https://gatecollegepredictor-0.onrender.com/api/visit")
     .then(res => res.json())
     .then(data => setVisitors(data.visitors))
     .catch(err => console.log(err));
@@ -23,7 +23,7 @@ const [programName, setProgramName] = useState("");
 
 const handleCollegeRequest = async () => {
 
-  const response = await fetch("http://localhost:5000/api/request/request-college", {
+  const response = await fetch("https://gatecollegepredictor-0.onrender.com/api/request/request-college", {
 
     method: "POST",
 
@@ -51,7 +51,7 @@ const handleCollegeRequest = async () => {
 
   const handlePredict = async () => {
 
-    const response = await fetch("http://localhost:5000/api/predict", {
+    const response = await fetch("https://gatecollegepredictor-0.onrender.com/api/predict", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
