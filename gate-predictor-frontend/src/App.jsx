@@ -102,10 +102,12 @@ console.log(processedResults)
     <div id="home" style={{ padding: "40px", fontFamily: "Arial" }}>
       <h1>GATE College Predictor 2026</h1>
 
+      {results.length>0 && (
       <p style={{color:"gray", padding: "20px"}}>
       🔥 {visitors} students predicted chances
       </p>
-
+      )
+      }
       <div id="home-bar">
         <input
         placeholder="Enter GATE Score"
@@ -210,6 +212,8 @@ console.log(processedResults)
 
 <hr />
 
+{ results.length>0 && (
+
 <div className="college-request">
 
   <h2>🏫 Can't find your college?</h2>
@@ -237,6 +241,9 @@ console.log(processedResults)
   </div>
 
 </div>
+)}
+
+<p className="footer-p">Made with ❤️ by Pratham</p>
 
     </div>
   );
