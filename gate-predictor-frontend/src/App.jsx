@@ -87,11 +87,24 @@ const handleCollegeRequest = async () => {
 
 });
 
-processedResults.sort((a, b) => b.probability - a.probability);
+// 👇 REPLACE OLD SORT WITH NEW ONE HERE
+const priorityOrder = {
+  IIT: 1,
+  NIT: 2,
+  IIIT: 3,
+  "Public University": 4
+};
+
+processedResults.sort((a, b) => {
+  const pA = priorityOrder[a.instituteType] || 5;
+  const pB = priorityOrder[b.instituteType] || 5;
+
+  if (pA !== pB) return pA - pB;
+
+  return b.probability - a.probability;
+});
 
 setResults(processedResults);
-
-console.log(processedResults)
   };
 
   const topMatches = results.filter(
@@ -143,6 +156,7 @@ console.log(processedResults)
       </button>
 
       <hr />
+      <p>Based on latest GATE 2025 cutoffs</p>
       </div>
 
       
