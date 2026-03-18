@@ -11,6 +11,7 @@ function App() {
   const [visitors, setVisitors] = useState(0);
   const [collegeName, setCollegeName] = useState("");
   const [programName, setProgramName] = useState("");
+  const [loading, setLoading] = useState(false);
 
   useEffect(() => {
 
@@ -51,6 +52,8 @@ const handleCollegeRequest = async () => {
 
   const handlePredict = async () => {
 
+    setLoading(true);
+    setResults([]);
     const response = await fetch("https://gatecollegepredictor-0.onrender.com/api/predict", {
       method: "POST",
       headers: {
@@ -105,6 +108,8 @@ processedResults.sort((a, b) => {
 });
 
 setResults(processedResults);
+
+setLoading(false);
   };
 
   const topMatches = results.filter(
@@ -151,9 +156,16 @@ setResults(processedResults);
         <option value="DA">DA</option>
       </select>
 
-      <button onClick={handlePredict}>
-        Predict Colleges
+      <button onClick={handlePredict} disabled={loading}>
+      {loading ? "Predicting..." : "Predict Colleges"}
       </button>
+
+      {loading && (
+      <div className="loader-container">
+      <div className="loader"></div>
+      <p>Finding best colleges for you... 🚀</p>
+      </div>
+      )}
 
       <hr />
       <p>Based on latest GATE 2025 cutoffs</p>
@@ -161,7 +173,7 @@ setResults(processedResults);
 
       
 
- {topMatches.length > 0 && (
+ {!loading && topMatches.length > 0 && (
   <div className="top-matches">
 
     <h2>⭐ Top Matches For You</h2>
@@ -179,7 +191,7 @@ setResults(processedResults);
   </div>
 )}
 
-{results.length > 0 && (
+{!loading && results.length > 0 && (
 
   <div className="results-table">
 
@@ -227,7 +239,7 @@ setResults(processedResults);
 
 <hr />
 
-{ results.length>0 && (
+{!loading && results.length>0 && (
 
 <div className="college-request">
 
