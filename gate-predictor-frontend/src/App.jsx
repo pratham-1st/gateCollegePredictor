@@ -163,7 +163,6 @@ setLoading(false);
       {loading && (
       <div className="loader-container">
       <div className="loader"></div>
-      <p>Finding best colleges for you... 🚀</p>
       </div>
       )}
 
